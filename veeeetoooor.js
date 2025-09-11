@@ -12,6 +12,7 @@ console.log(nomes[0])
 let myjames = prompt("digite um jogo ruim")
 // vetor com coisas
 let james = ["gta 7", "valorant", "cs", "warzone", "fortnite", "minecraft", "bo7", "free fire","rl"]
+james.push = ["Rocketlag"]
 let real = false
 
 for (let i = 0; i < james.length; i++){
